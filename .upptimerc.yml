@@ -19,9 +19,6 @@ sites:
     url: https://confluence.pokanop.com
   - name: Jira
     url: https://jira.pokanop.com
-  - name: Docker Registry
-    method: HEAD
-    url: https://registry.pokanop.com
   - name: Sourcegraph
     url: https://sourcegraph.pokanop.com
 
@@ -35,8 +32,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Pokanop Apps** uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/pokanop/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
