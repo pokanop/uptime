@@ -1,4 +1,4 @@
-# [📈 Live Status](https://pokanop.github.io/uptime): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://uptime.pokanop.com): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
