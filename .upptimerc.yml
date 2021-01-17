@@ -12,6 +12,9 @@ sites:
     url: https://uptime.pokanop.com
   - name: Jenkins
     url: https://jenkins.pokanop.com
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Bitbucket
     url: https://bitbucket.pokanop.com
   - name: Confluence
