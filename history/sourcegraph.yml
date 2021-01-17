@@ -1,7 +1,7 @@
-url: https://sourcegraph.pokanop.com
+url: $SECRET_SOURCEGRAPH_URL
 status: up
 code: 200
-responseTime: 346
-lastUpdated: 2021-01-17T10:41:04.638Z
+responseTime: 194
+lastUpdated: 2021-01-17T11:34:45.676Z
 startTime: Sun Jan 17 2021 06:56:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
