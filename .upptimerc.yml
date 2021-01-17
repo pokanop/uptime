@@ -8,7 +8,7 @@ sites:
     url: https://pokanop.com
   - name: Pokanop Apps Backend
     method: HEAD
-    url: https://app.pokanop.com
+    url: https://app.pokanop.com/health
   - name: Uptime
     url: https://uptime.pokanop.com
   - name: Jenkins
@@ -19,6 +19,10 @@ sites:
     url: https://confluence.pokanop.com
   - name: Jira
     url: https://jira.pokanop.com
+  - name: Docker Registry
+    url: https://registry.pokanop.com/v2
+    headers:
+      - 'Authorization: Basic $SECRET_REGISTRY_AUTH'
   - name: Sourcegraph
     url: https://sourcegraph.pokanop.com
 
@@ -32,13 +36,12 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Pokanop Apps** uptime monitor and status page, powered entirely by GitHub."
+  introTitle: '**Pokanop Apps** uptime monitor and status page, powered entirely by GitHub.'
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/pokanop/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
