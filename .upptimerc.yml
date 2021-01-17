@@ -7,26 +7,26 @@ sites:
   - name: Pokanop Apps Frontend
     url: https://pokanop.com
   - name: Pokanop Apps Backend
-    url: https://app.pokanop.com/health
+    url: $SECRET_BACKEND_URL
   - name: Uptime
     url: https://uptime.pokanop.com
   - name: Jenkins
-    url: https://jenkins.pokanop.com
+    url: $SECRET_JENKINS_URL
     expectedStatusCodes:
       - 200
       - 403
   - name: Bitbucket
-    url: https://bitbucket.pokanop.com
+    url: $SECRET_BITBUCKET_URL
   - name: Confluence
-    url: https://confluence.pokanop.com
+    url: $SECRET_CONFLUENCE_URL
   - name: Jira
-    url: https://jira.pokanop.com
+    url: $SECRET_JIRA_URL
   - name: Docker Registry
-    url: https://registry.pokanop.com/v2
+    url: $SECRET_REGISTRY_URL
     headers:
       - 'Authorization: Basic $SECRET_REGISTRY_AUTH'
   - name: Sourcegraph
-    url: https://sourcegraph.pokanop.com
+    url: $SECRET_SOURCEGRAPH_URL
 
 assignees:
   - saheljalal
