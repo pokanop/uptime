@@ -7,7 +7,6 @@ sites:
   - name: Pokanop Apps Frontend
     url: https://pokanop.com
   - name: Pokanop Apps Backend
-    method: HEAD
     url: https://app.pokanop.com/health
   - name: Uptime
     url: https://uptime.pokanop.com
