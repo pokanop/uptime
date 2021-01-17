@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: pokanop # Your GitHub username
+repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -24,6 +24,9 @@ sites:
     url: https://registry.pokanop.com
   - name: Sourcegraph
     url: https://sourcegraph.pokanop.com
+
+assignees:
+  - saheljalal
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
