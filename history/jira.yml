@@ -1,7 +1,7 @@
 url: $SECRET_JIRA_URL
 status: up
 code: 200
-responseTime: 528
-lastUpdated: 2021-02-20T23:04:09.968Z
+responseTime: 587
+lastUpdated: 2021-02-21T23:04:05.583Z
 startTime: Sun Jan 17 2021 06:54:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
