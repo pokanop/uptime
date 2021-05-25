@@ -1,7 +1,7 @@
 url: $SECRET_SOURCEGRAPH_URL
 status: down
 code: 502
-responseTime: 414
-lastUpdated: 2021-05-24T23:08:56.112Z
+responseTime: 427
+lastUpdated: 2021-05-25T23:14:01.084Z
 startTime: Sun Jan 17 2021 06:56:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
