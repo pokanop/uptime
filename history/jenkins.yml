@@ -1,7 +1,7 @@
 url: $SECRET_JENKINS_URL
 status: up
 code: 403
-responseTime: 339
-lastUpdated: 2021-06-20T23:04:36.536Z
+responseTime: 327
+lastUpdated: 2021-06-21T23:05:13.467Z
 startTime: Sun Jan 17 2021 06:53:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
