@@ -6,15 +6,15 @@
     "slug": "pokanop-apps-frontend",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
     "time": 261,
-    "timeDay": 229,
-    "timeWeek": 203,
+    "timeDay": 168,
+    "timeWeek": 199,
     "timeMonth": 286,
-    "timeYear": 272,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2022-08-31": 42,
       "2022-08-16": 19,
@@ -30,16 +30,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pokanop-apps-backend",
     "status": "up",
-    "uptime": "29.49%",
+    "uptime": "29.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.70%",
-    "uptimeYear": "4.30%",
-    "time": 306,
-    "timeDay": 116,
-    "timeWeek": 140,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "uptimeMonth": "53.00%",
+    "uptimeYear": "4.58%",
+    "time": 305,
+    "timeDay": 231,
+    "timeWeek": 153,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2022-08-16": 473,
       "2022-08-15": 1440,
@@ -388,8 +388,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   },
   {
@@ -404,9 +403,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 140,
-    "timeDay": 113,
-    "timeWeek": 122,
-    "timeMonth": 133,
+    "timeDay": 106,
+    "timeWeek": 120,
+    "timeMonth": 134,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2021-10-06": 139,
@@ -419,7 +418,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "26.83%",
+    "uptime": "26.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -430,7 +429,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-01": 41,
+      "2022-09-02": 44,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -793,8 +793,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   },
   {
@@ -803,7 +802,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bitbucket",
     "status": "down",
-    "uptime": "17.75%",
+    "uptime": "17.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -814,7 +813,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-01": 41,
+      "2022-09-02": 44,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -1177,8 +1177,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   },
   {
@@ -1187,7 +1186,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "confluence",
     "status": "down",
-    "uptime": "24.14%",
+    "uptime": "24.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1198,7 +1197,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-01": 41,
+      "2022-09-02": 44,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -1561,8 +1561,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   },
   {
@@ -1571,7 +1570,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "jira",
     "status": "down",
-    "uptime": "17.56%",
+    "uptime": "17.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1582,7 +1581,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-01": 41,
+      "2022-09-02": 44,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -1945,8 +1945,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   },
   {
@@ -1955,7 +1954,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "docker-registry",
     "status": "down",
-    "uptime": "26.82%",
+    "uptime": "26.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1966,7 +1965,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-01": 41,
+      "2022-09-02": 44,
+      "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
@@ -2329,8 +2329,7 @@
       "2021-09-06": 1440,
       "2021-09-05": 1440,
       "2021-09-04": 1440,
-      "2021-09-03": 1440,
-      "2021-09-02": 1440
+      "2021-09-03": 1440
     }
   },
   {
