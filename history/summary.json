@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 329,
-    "timeDay": 123,
-    "timeWeek": 208,
-    "timeMonth": 289,
+    "timeDay": 80,
+    "timeWeek": 195,
+    "timeMonth": 284,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2022-12-13": 22,
@@ -31,16 +31,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pokanop-apps-backend",
     "status": "up",
-    "uptime": "42.90%",
+    "uptime": "42.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.38%",
-    "time": 162,
-    "timeDay": 146,
-    "timeWeek": 148,
-    "timeMonth": 142,
-    "timeYear": 162,
+    "uptimeYear": "42.65%",
+    "time": 163,
+    "timeDay": 188,
+    "timeWeek": 153,
+    "timeMonth": 144,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2022-09-15": 22,
       "2022-08-16": 473,
@@ -251,8 +251,7 @@
       "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
-      "2022-01-20": 1440,
-      "2022-01-19": 1440
+      "2022-01-20": 1440
     }
   },
   {
@@ -267,9 +266,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 144,
-    "timeDay": 105,
-    "timeWeek": 115,
-    "timeMonth": 150,
+    "timeDay": 138,
+    "timeWeek": 120,
+    "timeMonth": 147,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2022-09-15": 48
@@ -281,7 +280,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "21.73%",
+    "uptime": "21.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -292,7 +291,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 38,
+      "2023-01-19": 38,
+      "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -655,8 +655,7 @@
       "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
-      "2022-01-20": 1440,
-      "2022-01-19": 1440
+      "2022-01-20": 1440
     }
   },
   {
@@ -665,7 +664,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitbucket",
     "status": "down",
-    "uptime": "14.37%",
+    "uptime": "14.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -676,7 +675,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 39,
+      "2023-01-19": 38,
+      "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -1039,8 +1039,7 @@
       "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
-      "2022-01-20": 1440,
-      "2022-01-19": 1440
+      "2022-01-20": 1440
     }
   },
   {
@@ -1049,7 +1048,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "19.55%",
+    "uptime": "19.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1060,7 +1059,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 39,
+      "2023-01-19": 38,
+      "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -1423,8 +1423,7 @@
       "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
-      "2022-01-20": 1440,
-      "2022-01-19": 1440
+      "2022-01-20": 1440
     }
   },
   {
@@ -1433,7 +1432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "14.22%",
+    "uptime": "14.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1444,7 +1443,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 39,
+      "2023-01-19": 38,
+      "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -1807,8 +1807,7 @@
       "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
-      "2022-01-20": 1440,
-      "2022-01-19": 1440
+      "2022-01-20": 1440
     }
   },
   {
@@ -1817,7 +1816,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-registry",
     "status": "down",
-    "uptime": "21.72%",
+    "uptime": "21.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1828,7 +1827,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 39,
+      "2023-01-19": 38,
+      "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -2191,8 +2191,7 @@
       "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
-      "2022-01-20": 1440,
-      "2022-01-19": 1440
+      "2022-01-20": 1440
     }
   },
   {
