@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 328,
-    "timeDay": 312,
-    "timeWeek": 234,
-    "timeMonth": 229,
-    "timeYear": 344,
+    "timeDay": 248,
+    "timeWeek": 233,
+    "timeMonth": 230,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2022-12-13": 22,
       "2022-12-08": 18,
-      "2022-08-31": 42,
-      "2022-08-16": 19
+      "2022-08-31": 42
     }
   },
   {
@@ -28,19 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pokanop-apps-backend",
     "status": "up",
-    "uptime": "55.60%",
+    "uptime": "55.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.91%",
     "time": 158,
-    "timeDay": 171,
-    "timeWeek": 156,
-    "timeMonth": 151,
+    "timeDay": 165,
+    "timeWeek": 153,
+    "timeMonth": 152,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-09-15": 22,
-      "2022-08-16": 473
+      "2022-09-15": 22
     }
   },
   {
@@ -55,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 155,
-    "timeDay": 217,
-    "timeWeek": 147,
+    "timeDay": 173,
+    "timeWeek": 161,
     "timeMonth": 139,
     "timeYear": 153,
     "dailyMinutesDown": {
@@ -69,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "16.90%",
+    "uptime": "16.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -80,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-15": 30,
+      "2023-08-16": 29,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -443,8 +442,7 @@
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
-      "2022-08-17": 1440,
-      "2022-08-16": 1440
+      "2022-08-17": 1440
     }
   },
   {
@@ -453,7 +451,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitbucket",
     "status": "down",
-    "uptime": "11.18%",
+    "uptime": "11.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -464,7 +462,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-15": 30,
+      "2023-08-16": 29,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -827,8 +826,7 @@
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
-      "2022-08-17": 1440,
-      "2022-08-16": 1440
+      "2022-08-17": 1440
     }
   },
   {
@@ -837,7 +835,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "15.20%",
+    "uptime": "15.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -848,7 +846,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-15": 30,
+      "2023-08-16": 29,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -1211,8 +1210,7 @@
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
-      "2022-08-17": 1440,
-      "2022-08-16": 1440
+      "2022-08-17": 1440
     }
   },
   {
@@ -1221,7 +1219,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "11.06%",
+    "uptime": "11.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1232,7 +1230,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-15": 30,
+      "2023-08-16": 29,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -1595,8 +1594,7 @@
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
-      "2022-08-17": 1440,
-      "2022-08-16": 1440
+      "2022-08-17": 1440
     }
   },
   {
@@ -1605,7 +1603,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-registry",
     "status": "down",
-    "uptime": "16.89%",
+    "uptime": "16.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1616,7 +1614,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-15": 30,
+      "2023-08-16": 29,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -1979,8 +1978,7 @@
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
-      "2022-08-17": 1440,
-      "2022-08-16": 1440
+      "2022-08-17": 1440
     }
   },
   {
