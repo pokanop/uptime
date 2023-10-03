@@ -43,19 +43,19 @@
     "url": "https://uptime.pokanop.com",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.pokanop.com.ico",
     "slug": "uptime",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 144,
+    "time": 154,
+    "timeDay": 110,
+    "timeWeek": 123,
+    "timeMonth": 142,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-10-03": 3
+      "2023-10-03": 19
     }
   },
   {
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 129,
+      "2023-10-03": 148,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -459,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 129,
+      "2023-10-03": 148,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -843,7 +843,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 129,
+      "2023-10-03": 148,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -1227,7 +1227,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 129,
+      "2023-10-03": 148,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -1611,7 +1611,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 129,
+      "2023-10-03": 148,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
