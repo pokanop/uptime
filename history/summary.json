@@ -43,18 +43,20 @@
     "url": "https://uptime.pokanop.com",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.pokanop.com.ico",
     "slug": "uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 171,
-    "timeWeek": 135,
-    "timeMonth": 146,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 144,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 3
+    }
   },
   {
     "name": "Jenkins",
@@ -73,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 32,
+      "2023-10-03": 129,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -457,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 32,
+      "2023-10-03": 129,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -841,7 +843,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 32,
+      "2023-10-03": 129,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -1225,7 +1227,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 32,
+      "2023-10-03": 129,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -1609,7 +1611,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 32,
+      "2023-10-03": 129,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
