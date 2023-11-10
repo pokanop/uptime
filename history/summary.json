@@ -6,9 +6,9 @@
     "slug": "pokanop-apps-frontend",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 316,
     "timeDay": 181,
@@ -16,7 +16,6 @@
     "timeMonth": 169,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2023-11-10": 6,
       "2022-12-13": 22,
       "2022-12-08": 18
     }
@@ -26,9 +25,9 @@
     "url": "$SECRET_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pokanop-apps-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "59.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,16 +36,18 @@
     "timeWeek": 148,
     "timeMonth": 145,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 0
+    }
   },
   {
     "name": "Uptime",
     "url": "https://uptime.pokanop.com",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.pokanop.com.ico",
     "slug": "uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,6 +57,7 @@
     "timeMonth": 127,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2023-11-10": 0,
       "2023-10-03": 19
     }
   },
@@ -76,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 596,
+      "2023-11-10": 599,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -460,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 596,
+      "2023-11-10": 599,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -844,7 +846,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 596,
+      "2023-11-10": 599,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -1228,7 +1230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 596,
+      "2023-11-10": 599,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -1612,7 +1614,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-10": 596,
+      "2023-11-10": 599,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
