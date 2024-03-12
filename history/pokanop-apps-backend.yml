@@ -1,7 +1,7 @@
 url: $SECRET_BACKEND_URL
 status: up
 code: 200
-responseTime: 85
-lastUpdated: 2024-03-11T23:08:00.907Z
+responseTime: 131
+lastUpdated: 2024-03-12T23:07:47.339Z
 startTime: 2021-01-17T06:52:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
