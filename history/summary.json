@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 58,
-    "timeWeek": 141,
-    "timeMonth": 132,
+    "timeDay": 91,
+    "timeWeek": 139,
+    "timeMonth": 133,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2024-01-17": 24
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pokanop-apps-backend",
     "status": "up",
-    "uptime": "70.17%",
+    "uptime": "70.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 349,
-    "timeWeek": 416,
-    "timeMonth": 393,
-    "timeYear": 281,
+    "time": 248,
+    "timeDay": 491,
+    "timeWeek": 431,
+    "timeMonth": 396,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 69,
-    "timeWeek": 137,
-    "timeMonth": 125,
+    "timeDay": 171,
+    "timeWeek": 127,
+    "timeMonth": 126,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "11.35%",
+    "uptime": "11.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 45,
+      "2024-11-17": 50,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -435,8 +436,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -445,7 +445,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitbucket",
     "status": "down",
-    "uptime": "7.51%",
+    "uptime": "7.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 45,
+      "2024-11-17": 50,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -819,8 +820,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 45,
+      "2024-11-17": 50,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -1203,8 +1204,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -1213,7 +1213,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "7.43%",
+    "uptime": "7.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1224,7 +1224,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 45,
+      "2024-11-17": 50,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -1587,8 +1588,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
@@ -1597,7 +1597,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-registry",
     "status": "down",
-    "uptime": "11.35%",
+    "uptime": "11.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1608,7 +1608,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 45,
+      "2024-11-17": 50,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -1971,8 +1972,7 @@
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
-      "2023-11-19": 1440,
-      "2023-11-18": 1440
+      "2023-11-19": 1440
     }
   },
   {
