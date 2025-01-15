@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 145,
-    "timeWeek": 137,
-    "timeMonth": 122,
-    "timeYear": 128,
+    "time": 131,
+    "timeDay": 143,
+    "timeWeek": 141,
+    "timeMonth": 123,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2024-01-17": 24
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pokanop-apps-backend",
     "status": "up",
-    "uptime": "71.37%",
+    "uptime": "71.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 157,
-    "timeWeek": 179,
-    "timeMonth": 268,
+    "timeDay": 143,
+    "timeWeek": 177,
+    "timeMonth": 259,
     "timeYear": 311,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 116,
-    "timeWeek": 147,
-    "timeMonth": 142,
-    "timeYear": 129,
+    "timeDay": 242,
+    "timeWeek": 164,
+    "timeMonth": 147,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 42,
+      "2025-01-15": 43,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -435,8 +436,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -445,7 +445,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitbucket",
     "status": "down",
-    "uptime": "7.21%",
+    "uptime": "7.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -456,7 +456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 42,
+      "2025-01-15": 43,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -819,8 +820,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "confluence",
     "status": "down",
-    "uptime": "9.80%",
+    "uptime": "9.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 42,
+      "2025-01-15": 43,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1203,8 +1204,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -1213,7 +1213,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jira",
     "status": "down",
-    "uptime": "7.13%",
+    "uptime": "7.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1224,7 +1224,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 42,
+      "2025-01-15": 43,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1587,8 +1588,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -1597,7 +1597,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-registry",
     "status": "down",
-    "uptime": "10.89%",
+    "uptime": "10.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1608,7 +1608,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 42,
+      "2025-01-15": 43,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1971,8 +1972,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
