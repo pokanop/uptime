@@ -4,19 +4,19 @@
     "url": "https://pokanop.com",
     "icon": "https://icons.duckduckgo.com/ip3/pokanop.com.ico",
     "slug": "pokanop-apps-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 191,
-    "timeWeek": 153,
-    "timeMonth": 127,
+    "timeDay": 175,
+    "timeWeek": 154,
+    "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-11": 5
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 340,
+      "2025-03-11": 345,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -456,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 340,
+      "2025-03-11": 346,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -840,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 340,
+      "2025-03-11": 346,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1224,7 +1224,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 340,
+      "2025-03-11": 346,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1608,7 +1608,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 340,
+      "2025-03-11": 346,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
