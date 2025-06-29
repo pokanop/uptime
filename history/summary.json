@@ -4,18 +4,20 @@
     "url": "https://pokanop.com",
     "icon": "https://icons.duckduckgo.com/ip3/pokanop.com.ico",
     "slug": "pokanop-apps-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 96,
-    "timeWeek": 145,
-    "timeMonth": 144,
-    "timeYear": 142,
-    "dailyMinutesDown": {}
+    "timeDay": 247,
+    "timeWeek": 177,
+    "timeMonth": 152,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2025-06-29": 0
+    }
   },
   {
     "name": "Pokanop Apps Backend",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pokanop-apps-backend",
     "status": "up",
-    "uptime": "74.30%",
+    "uptime": "74.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 60,
+      "2025-06-29": 493,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -454,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 60,
+      "2025-06-29": 493,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -838,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 60,
+      "2025-06-29": 493,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1222,7 +1224,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 61,
+      "2025-06-29": 493,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1606,7 +1608,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 61,
+      "2025-06-29": 493,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
